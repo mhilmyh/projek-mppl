@@ -9,6 +9,5 @@ Pada repository `projek-mppl` terdapat sub-repository lagi yang dibagi menjadi 2
 ##### Melakukan update submodule
 
 ```
-git submodule update --init --recursive
 git submodule update --remote
 ```

@@ -1,3 +1,9 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/mhilmyh/hrms-frontend.git
+[submodule "hrms-backend"]
+	path = hrms-backend
+	url = https://github.com/mhilmyh/hrms-backend.git
+[submodule "hrms-frontend"]
+	path = hrms-frontend
+	url = https://github.com/mhilmyh/hrms-frontend.git

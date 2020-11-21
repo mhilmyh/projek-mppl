@@ -1,6 +1,11 @@
 Configure your local repository to push to the cPanel-hosted repository :
 
 ```
-git remote add hosting ssh://hilmyweb@hilmy.website:64000/home/hilmyweb/repositories/hrms-{frontend|backend}
+# untuk frontend
+git remote add hosting ssh://developer@hilmy.website:64000/home/hilmyweb/repositories/hrms-frontend
+
+# untuk backend
+git remote add hosting ssh://developer@hilmy.website:64000/home/hilmyweb/repositories/hrms-frontend
+
 git push -u hosting master
 ```

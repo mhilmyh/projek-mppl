@@ -9,3 +9,9 @@ git remote add hosting ssh://developer@hilmy.website:64000/home/hilmyweb/reposit
 
 git push -u hosting master
 ```
+
+Seed and migrations :
+
+```
+php artisan migrate:fresh --seed
+```

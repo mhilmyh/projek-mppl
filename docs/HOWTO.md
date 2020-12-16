@@ -1,14 +1,6 @@
-Configure your local repository to push to the cPanel-hosted repository :
+For more info visit:
 
-```
-# untuk frontend
-git remote add hosting ssh://developer@hilmy.website:64000/home/hilmyweb/repositories/hrms-frontend
-
-# untuk backend
-git remote add hosting ssh://developer@hilmy.website:64000/home/hilmyweb/repositories/hrms-backend
-
-git push -u hosting master
-```
+- [Spec Document HRMS](https://www.notion.so/Spec-Hument-HRMS-ef76ba8bb4504193ac386ecb469d80fc)
 
 Seed and migrations :
 
